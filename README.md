@@ -1,2 +1,2 @@
-# simple_products_api
+# Productsapi
 Simple Products API
